@@ -4,6 +4,8 @@ call pathogen#helptags()
 " GundoToggle
 "nnoremap <F5> :GundoToggle<CR>
 
+" background style
+set bg=dark
 " size of hard tabs
 set ts=4
 " size of soft tabs
