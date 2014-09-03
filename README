@@ -1,3 +1,4 @@
+Usage:
 $ rm -fr .vim/ .vimrc
 $ git clone --recursive https://github.com/Pan0ram1x/vim-cfg .vim
 $ ln .vim/vimrc .vimrc
